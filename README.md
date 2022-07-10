@@ -9,11 +9,9 @@ The repository of Kay's portfolio 👋
 ## Submission
 - A link to the repository: https://github.com/SheCodesAus/she-codes-crowdfunding-api-project-kaysikaizhao
 - A link to the deployed project: https://dashboard.heroku.com/apps/she-codes-drf-project
-- A folder named "Screehshots" can be found in the repository
 
 ## Requirements
-Part A
-Please fine the following in the Google doc: https://docs.google.com/document/d/104ya_0vMlNT_zyiQVw-B6MtdS3hQfZNwyrW5Ys-rM70/edit?usp=sharing
+The following can be found in the Google doc: https://docs.google.com/document/d/104ya_0vMlNT_zyiQVw-B6MtdS3hQfZNwyrW5Ys-rM70/edit?usp=sharing
 - A screenshot of Insomnia, demonstrating a successful GET method for any endpoint ✅
 - A screenshot of Insomnia, demonstrating a successful POST method for any endpoint ✅
 - A screenshot of Insomnia, demonstrating a token being returned ✅
